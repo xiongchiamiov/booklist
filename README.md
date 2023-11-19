@@ -48,12 +48,16 @@ but rather a recording of research that I have done myself to find resources.
 - [Antifragile](https://www.amazon.com/dp/0812979680/)
 - [Behind Human Error](http://amazon.com/dp/0754678342/)
 - [The Field Guide to Understanding Human Error](http://amazon.com/Field-Guide-Understanding-Human-Error-ebook/dp/B00Q8XCSFI)
+  * Google Books has [a preview][human-error].  That alone has some great
+    advice, and gives a good idea what the book is like.
 - [Resilience Engineering in Practice](https://www.amazon.com/dp/1472420748/)
 - [Still Not Safe](https://www.amazon.com/dp/0190271264/)
 - [Engineering a Safer World](https://www.amazon.com/dp/0262533693/)
 - [The 5 Principles of Human Performance](https://www.amazon.com/dp/1794639144/)
 - [Human Factors In Engineering and Design](https://www.amazon.com/dp/007054901X/)
 - [Threats: What Every Engineer Should Learn From Star Wars](https://www.amazon.com/dp/1119895162/)
+
+[human-error]: https://www.google.com/books/edition/The_Field_Guide_to_Understanding_Human_E/cqrXCQAAQBAJ?hl=en&gbpv=1&pg=PA1&printsec=frontcover
 
 ## Goal-Setting / Time Management
 
