@@ -32,6 +32,7 @@ but rather a recording of research that I have done myself to find resources.
 ## Career
 
 - [The Staff Engineer's Path](https://noidea.dog/staff)
+  * Even if you've read all of staffeng.com a bunch of times and watched LeadDev videos and spent time in #staff-principal-engineering in RLS, this still has a bunch of useful stuff.  In-depth, well-organized, clear, and a treasure trove of links to other useful resources.
 - [The Passionate Programmer](https://www.amazon.com/dp/1934356344/)
 
 ## Communication
@@ -62,7 +63,9 @@ but rather a recording of research that I have done myself to find resources.
 ## Goal-Setting / Time Management
 
 - [Outcomes Over Output](http://amazon.com/Outcomes-Over-Output-customer-behavior-ebook/dp/B07QJ1Y8Y5/)
+  * A short book, mostly an introduction to the idea of focusing on results rather than how much effort we put into a project.  There are some examples of how to do this, but if you're doing it for real I think you'll want another book to help you out there; this is mostly useful to help convince change.
 - [Radical Focus](https://www.amazon.com/Radical-Focus-SECOND-Achieving-Objectives-ebook/dp/B091ZL2SRL/)
+  * OKRs.  I don't remember why people recommended this over Measure What Matters, High Output Management, and similar, but there were convincing reasons.
 - [Four Thousand Weeks](https://www.amazon.com/Four-Thousand-Weeks-Management-Mortals-ebook/dp/B08FGV64B1/)
 
 ## Networking
