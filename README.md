@@ -52,6 +52,8 @@ but rather a recording of research that I have done myself to find resources.
   * Google Books has [a preview][human-error].  That alone has some great
     advice, and gives a good idea what the book is like.
 - [Resilience Engineering in Practice](https://www.amazon.com/dp/1472420748/)
+- [Site Reliability Engineering](https://sre.google/sre-book/table-of-contents/)
+- [The Site Reliability Workbook](https://sre.google/workbook/table-of-contents/)
 - [Still Not Safe](https://www.amazon.com/dp/0190271264/)
 - [Engineering a Safer World](https://www.amazon.com/dp/0262533693/)
 - [The 5 Principles of Human Performance](https://www.amazon.com/dp/1794639144/)
