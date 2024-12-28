@@ -31,6 +31,8 @@ but rather a recording of research that I have done myself to find resources.
 
 ## Career
 
+- [Letters to a New Developer](https://letterstoanewdeveloper.com/the-book/)
+  * A collection of very short pieces of advice for someone who is working their first job.
 - [The Staff Engineer's Path](https://noidea.dog/staff)
   * Even if you've read all of staffeng.com a bunch of times and watched LeadDev videos and spent time in #staff-principal-engineering in RLS, this still has a bunch of useful stuff.  In-depth, well-organized, clear, and a treasure trove of links to other useful resources.
 - [The Passionate Programmer](https://www.amazon.com/dp/1934356344/)
